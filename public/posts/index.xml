@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Hernán Quince - Localization Engineering</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Hernán Quince - Localization Engineering</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2026 06:57:22 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deliver</title>
+      <link>http://localhost:1313/posts/deliver/</link>
+      <pubDate>Fri, 12 Jun 2026 06:57:22 +0800</pubDate>
+      <guid>http://localhost:1313/posts/deliver/</guid>
+      <description>&lt;h3 id=&#34;get-projects-ready-to-publish-fast-and-low-cost&#34;&gt;Get projects ready to publish fast and low-cost.&lt;/h3&gt;
+&lt;h2 id=&#34;glossary-generation-pre-run-fine-tuning-tm&#34;&gt;Glossary generation, pre-run fine tuning, TM&lt;/h2&gt;
+&lt;h2 id=&#34;speed-one-week-since-confirmed-inputs&#34;&gt;Speed: One week since confirmed inputs&lt;/h2&gt;
+&lt;h2 id=&#34;accuracy-ready-for-final-native-lqa--polishing&#34;&gt;Accuracy: Ready for final native LQA &amp;amp; polishing&lt;/h2&gt;
+&lt;h2 id=&#34;value-expert-directed-llm-powered-bulk-work&#34;&gt;Value: Expert-directed LLM-powered bulk work&lt;/h2&gt;
+&lt;h3 id=&#34;contact-me-at&#34;&gt;Contact me at: &lt;a href=&#34;mailto:contact@hernanquince.com&#34;&gt;contact@hernanquince.com&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>

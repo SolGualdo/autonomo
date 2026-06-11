@@ -1,4 +1,4 @@
-theme = 'paige'
+theme = 'PaperMod'
 baseURL = 'https://www.hernanquince.com/'
 languageCode = 'en-us'
 title = 'Hernán Quince - Localization Engineering'
